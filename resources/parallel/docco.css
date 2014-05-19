@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  margin-top: 40px;
+  margin-top: 5px;
 }
 
 hr {
@@ -343,10 +343,10 @@ ul.sections > li > div {
     -webkit-transition: opacity 0.2s linear;
   }
     .for-h1 .pilcrow {
-      top: 47px;
+      top: 25px;
     }
     .for-h2 .pilcrow, .for-h3 .pilcrow, .for-h4 .pilcrow {
-      top: 35px;
+      top: 25px;
     }
 
   ul.sections > li > div.annotation:hover .pilcrow {
